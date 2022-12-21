@@ -1,10 +1,9 @@
 # RocketLanding - Capstone
 C++ game with SDL libraries
 
-<img src="rocket.gif"/>
+<img src="RocketLanding.gif"/>
 
 This project was made to finish the UDACITY NANODEGREE programm: "C++".
-
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
@@ -27,4 +26,5 @@ This project was made to finish the UDACITY NANODEGREE programm: "C++".
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./RocketLanding`.
+4. Copy resource folder "res" to build folder 
+5. Run it: `./RocketLanding`.
