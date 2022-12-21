@@ -31,7 +31,6 @@ This project was made to finish the UDACITY NANODEGREE programm: "C++".
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Copy resource folder "res" to build folder 
 5. Run it: `./RocketLanding`.
 
 ## Rubric Points
