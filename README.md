@@ -3,8 +3,6 @@ SDL2 Game written in C++
 
 <img src="RocketLanding.gif"/>
 
-This project was made to finish the UDACITY NANODEGREE programm: "C++".
-
 ## Instructions
 * Use the keyboard arrow keys to control the rocket
 * Land the rocket slow and and untilted on the horizontal stage
