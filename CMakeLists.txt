@@ -21,3 +21,5 @@ add_executable(RocketLanding src/main.cpp src/game.cpp src/controller.cpp src/re
 string(STRIP ${SDL2_LIBRARIES} SDL2_LIBRARIES)
 
 target_link_libraries(RocketLanding ${SDL2_LIBRARIES} ${SDL2_IMAGE_LIBRARIES})
+
+file(COPY res DESTINATION ${CMAKE_BINARY_DIR})
